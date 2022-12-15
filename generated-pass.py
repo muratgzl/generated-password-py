@@ -12,3 +12,12 @@ length_for_pass = 10
 password = "".join(random.sample(use_for, length_for_pass))
 
 print("Your generated password: " + password)
+
+"""
+██╗    ██╗ ██████╗ ██╗  ██╗
+██║    ██║██╔═══██╗╚██╗██╔╝
+██║ █╗ ██║██║   ██║ ╚███╔╝ 
+██║███╗██║██║   ██║ ██╔██╗ 
+╚███╔███╔╝╚██████╔╝██╔╝ ██╗
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝
+ """
