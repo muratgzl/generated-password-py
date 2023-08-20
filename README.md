@@ -1,6 +1,5 @@
 # generated-password-py
 
-That's my first project on github.
-I know this is so easy but im trying to learning.
+Welcome to my project, this project is generate a confusing passwords for you.
 
-THANK YOU FOR READING THIS. :pray:
+Have a nice day! :pray:
